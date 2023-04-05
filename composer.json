@@ -1,0 +1,19 @@
+{
+    "name": "kiranshrestha/call-log",
+    "description": "Call Logger",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Database\\": "database/"
+        },
+        "files": [
+            "app/helper.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Kiran"
+        }
+    ],
+    "require": {}
+}
